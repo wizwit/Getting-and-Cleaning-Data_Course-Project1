@@ -1,5 +1,5 @@
-Getting-and-Cleaning-Data_Course-Project
-This repository contains all of the deliverables for the Getting and Cleaning Data Course Project.
+##Getting-and-Cleaning-Data_Course-Project
+###This repository contains all of the deliverables for the Getting and Cleaning Data Course Project.
 
 How this script works:
 
