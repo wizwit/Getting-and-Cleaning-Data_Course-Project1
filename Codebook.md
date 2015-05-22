@@ -47,4 +47,4 @@ tgravityacc-mean-x
 tgravityacc-mean-y
 
 
-The script then creates a 2nd, independent tidy data set with the average of each measurement for each activity and each subject. The result is saved as tidy_data_set.txt, a 180x68 data frame, where as before, the first column contains subject IDs, the second column contains activity names (see below), and then the averages for each of the 66 attributes are in columns 3 - 68. There are 30 subjects and 6 activities, thus 180 rows in this data set with averages.
+This script then creates a 2nd, independent tidy data set with the average of each measurement for each activity and each subject. The result is saved as tidy_data_set.txt, a 180x68 data frame, where as before, the first column contains subject IDs, the second column contains activity names (see below), and then the averages for each of the 66 attributes are in columns 3 - 68. There are 30 subjects and 6 activities, resulting in 180 rows in this data set with averages.
